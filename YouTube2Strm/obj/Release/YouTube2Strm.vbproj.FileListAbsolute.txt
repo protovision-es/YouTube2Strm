@@ -1,0 +1,11 @@
+C:\Users\oscar\Desktop\YouTube2Strm\YouTube2Strm\YouTube2Strm\YouTube2Strm\bin\Release\YouTube2Strm.exe
+C:\Users\oscar\Desktop\YouTube2Strm\YouTube2Strm\YouTube2Strm\YouTube2Strm\bin\Release\YouTube2Strm.pdb
+C:\Users\oscar\Desktop\YouTube2Strm\YouTube2Strm\YouTube2Strm\YouTube2Strm\bin\Release\YouTube2Strm.xml
+C:\Users\oscar\Desktop\YouTube2Strm\YouTube2Strm\YouTube2Strm\YouTube2Strm\obj\Release\YouTube2Strm.Form1.resources
+C:\Users\oscar\Desktop\YouTube2Strm\YouTube2Strm\YouTube2Strm\YouTube2Strm\obj\Release\YouTube2Strm.Resources.resources
+C:\Users\oscar\Desktop\YouTube2Strm\YouTube2Strm\YouTube2Strm\YouTube2Strm\obj\Release\YouTube2Strm.vbproj.GenerateResource.Cache
+C:\Users\oscar\Desktop\YouTube2Strm\YouTube2Strm\YouTube2Strm\YouTube2Strm\obj\Release\YouTube2Strm.exe
+C:\Users\oscar\Desktop\YouTube2Strm\YouTube2Strm\YouTube2Strm\YouTube2Strm\obj\Release\YouTube2Strm.xml
+C:\Users\oscar\Desktop\YouTube2Strm\YouTube2Strm\YouTube2Strm\YouTube2Strm\obj\Release\YouTube2Strm.pdb
+C:\Users\oscar\Desktop\YouTube2Strm\YouTube2Strm\YouTube2Strm\YouTube2Strm\obj\Release\YouTube2Strm.options.resources
+C:\Users\oscar\Desktop\YouTube2Strm\YouTube2Strm\YouTube2Strm\YouTube2Strm\obj\Release\YouTube2Strm.update.resources
